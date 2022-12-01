@@ -10,7 +10,7 @@ I am a full-time Android Developer and part-time Content Creator in MikkiPastel.
 ## 📲 Contact Me
 <p align="center">
 <br/>
-<a href="https://twitter.com/rangonomics">
+<a href="https://www.facebook.com/profile.php?id=100016245645658">
   <img alt="guilyx | Twitter" width="50px" src="/social media/facebook.png"/>
 </a>
 </p>
