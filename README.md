@@ -1,5 +1,9 @@
 ## Hello World🦊
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
 <!--
 Poonpit/Image_created_with_a_mobile_phone.png
 ![This is an image](Poonpit/Image_created_with_a_mobile_phone.png)
