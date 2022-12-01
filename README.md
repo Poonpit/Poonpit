@@ -1,5 +1,5 @@
 ## Hello World🦊
-![(Poonpit/Image_created_with_a_mobile_phone.png)]
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 <!--
 Poonpit/Image_created_with_a_mobile_phone.png
 ![This is an image](Poonpit/Image_created_with_a_mobile_phone.png)
