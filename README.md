@@ -1,5 +1,5 @@
 ## Hello World🦊
-![This is an image](/Poonpit/Image_created_with_a_mobile_phone.png)
+![This is an image](../Poonpit/Image_created_with_a_mobile_phone.png)
 <!--
 Poonpit/Image_created_with_a_mobile_phone.png
 **Poonpit/Poonpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
