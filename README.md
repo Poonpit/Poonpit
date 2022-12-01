@@ -2,4 +2,4 @@
 
 ![Banner](/image/images.png)
 
-<h3 align="center" > <img src="https://i.gifer.com/XZ57.gif" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
+<h3 align="center" > <img src="https://gifer.com/embed/XZ57" width="30" height="30" style="margin-right: 10px;">Connect with me  </h3>
