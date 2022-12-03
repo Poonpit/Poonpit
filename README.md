@@ -13,7 +13,23 @@ Faculty of Science
 <br>
 Major Computer Science
 ## PROGRAMING LANGUAGES
-
+<p align="center">
+<a href="#">
+  <img alt="guilyx | python" width="50px" src="/languages/python.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | java" width="50px" src="/languages/java.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | java-script" width="50px" src="/languages/java-script.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | HTML" width="50px" src="/languages/HTML.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | CSS" width="50px" src="/languages/CSS.png"/>
+</a>
+</p>
 ## DATABASES
 ## FRAMEWORK & LIBRRARY
 ## CONTACT
