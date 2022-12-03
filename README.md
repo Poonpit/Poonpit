@@ -12,14 +12,12 @@ Chiang Mai University
 Faculty of Science
 <br>
 Major Computer Science
-
-
 ## PROGRAMING LANGUAGES
+
 ## DATABASES
 ## FRAMEWORK & LIBRRARY
 ## CONTACT
 <p align="center">
-<br/>
 <a href="https://www.facebook.com/profile.php?id=100016245645658">
   <img alt="guilyx | Twitter" width="50px" src="/social media/facebook.png"/>
 </a>
