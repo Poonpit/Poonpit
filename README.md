@@ -31,6 +31,14 @@ Major Computer Science
 </a>
 </p>
 ## DATABASES
+<p align="center">
+<a href="#">
+  <img alt="guilyx | mysql" width="50px" src="/DATABASES/mysql.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | MongoDB" width="50px" src="/DATABASES/MongoDB.png"/>
+</a>
+</p>
 ## FRAMEWORK & LIBRRARY
 ## CONTACT
 <p align="center">
