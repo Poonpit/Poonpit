@@ -69,6 +69,13 @@ Major Computer Science
 <a href="https://twitter.com/PoonpittinanY">
   <img alt="guilyx | Twitter" width="50px" src="/social media/twitter.png"/>
 </a>
+<a href="poonpittinan.in@gmail.com">
+  <img alt="guilyx | gmail" width="50px" src="/social media/gmail-logo.png"/>
+</a>
+<a href="#">
+  <img alt="guilyx | Twitter" width="50px" src="/social media/linkedin.png"/>
+</a>
 </p>
 
+<!-- http://linkedin.com/in/poonpittinan-yupa-a94577170 -->
 
