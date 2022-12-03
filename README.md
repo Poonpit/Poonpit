@@ -6,9 +6,11 @@
 Passionate software developer who has experience in study coding, development planning, manage projects and design features skill. Seeking to improve software development experience (Internship 6 months). Able to develop both in back-end and front-end. Have the ability to both soft skills and hard skills to solve problems and develop projects with your company to achieve goals.
 
 🌱 Coding--Badminton--Travel--Mountain Climbing--Running--Hiking 🌱
-
+## EDUCATION
 ## PROGRAMING LANGUAGES
-## 📲 Contact Me
+## DATABASES
+## FRAMEWORK & LIBRRARY
+## CONTACT
 <p align="center">
 <br/>
 <a href="https://www.facebook.com/profile.php?id=100016245645658">
