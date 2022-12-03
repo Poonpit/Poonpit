@@ -3,7 +3,7 @@
 ![Banner](/image/POONPIT.png)
 <p align="center"><h1> SOFTWARE DEVELOPER</h1></p>
 
-I am a full-time Android Developer and part-time Content Creator in MikkiPastel. I have started Android Development since the internship and develop some applications to join some contest to get more experience then my goals are made application to solve user problem, answer business and improve myself to share knowledge in my blog. 
+Passionate software developer who has experience in study coding, development planning, manage projects and design features skill. Seeking to improve software development experience (Internship 6 months). Able to develop both in back-end and front-end. Have the ability to both soft skills and hard skills to solve problems and develop projects with your company to achieve goals.
 
 🌱 In addition to Android Development, I am interest in Programming, Design, Blockchain, Chatbot, Business & Innovation.
 
