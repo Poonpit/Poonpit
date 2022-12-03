@@ -7,6 +7,8 @@ Passionate software developer who has experience in study coding, development pl
 
 🌱 Coding--Badminton--Travel--Mountain Climbing--Running--Hiking 🌱
 ## EDUCATION
+###Chiang Mai University
+
 ## PROGRAMING LANGUAGES
 ## DATABASES
 ## FRAMEWORK & LIBRRARY
