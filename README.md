@@ -61,7 +61,13 @@ Major Computer Science
 ## CONTACT
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100016245645658">
-  <img alt="guilyx | Twitter" width="50px" src="/social media/facebook.png"/>
+  <img alt="guilyx | facebook" width="50px" src="/social media/facebook.png"/>
+</a>
+<a href="https://www.instagram.com/poon_pit_/">
+  <img alt="guilyx | instagram" width="50px" src="/social media/instagram.png"/>
+</a>
+<a href="https://twitter.com/PoonpittinanY">
+  <img alt="guilyx | Twitter" width="50px" src="/social media/twitter.png"/>
 </a>
 </p>
 
