@@ -30,7 +30,9 @@ Major Computer Science
   <img alt="guilyx | CSS" width="50px" src="/languages/CSS.png"/>
 </a>
 </p>
+
 ## DATABASES
+
 <p align="center">
 <a href="#">
   <img alt="guilyx | mysql" width="50px" src="/DATABASES/mysql.png"/>
