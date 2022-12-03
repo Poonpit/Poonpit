@@ -45,16 +45,16 @@ Major Computer Science
 ## FRAMEWORK & LIBRRARY
 <p align="center">
 <a href="#">
-  <img alt="guilyx | Flask" width="50px" src="/FRAMEWORK /Flask.png"/>
+  <img alt="guilyx | Flask" width="50px" src="/FRAMEWORK/Flask.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | bootstrap" width="50px" src="/FRAMEWORK /bootstrap.png"/>
+  <img alt="guilyx | bootstrap" width="50px" src="/FRAMEWORK/bootstrap.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | react" width="50px" src="/FRAMEWORK /react.png"/>
+  <img alt="guilyx | react" width="50px" src="/FRAMEWORK/react.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK /nodeJS.jpg"/>
+  <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/nodeJS.jpg"/>
 </a>
 </p>
 ## CONTACT
