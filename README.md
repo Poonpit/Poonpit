@@ -56,6 +56,9 @@ Major Computer Science
 <a href="#">
   <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/node.png"/>
 </a>
+<a href="#">
+  <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/express.png"/>
+</a>
 </p>
 
 ## CONTACT
