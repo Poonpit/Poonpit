@@ -48,7 +48,7 @@ Major Computer Science
   <img alt="guilyx | Flask" width="50px" src="/FRAMEWORK/Flask.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | bootstrap" width="50px" src="/FRAMEWORK/bootstrap.png"/>
+  <img alt="guilyx | bootstrap" width="50px" src="/FRAMEWORK/Bootstrap.png"/>
 </a>
 <a href="#">
   <img alt="guilyx | react" width="50px" src="/FRAMEWORK/react.png"/>
@@ -57,7 +57,7 @@ Major Computer Science
   <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/node.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/express.png"/>
+  <img alt="guilyx | nodeJS" width="50px" src="/FRAMEWORK/Express.png"/>
 </a>
 </p>
 
