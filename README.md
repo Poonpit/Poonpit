@@ -38,7 +38,7 @@ Major Computer Science
   <img alt="guilyx | mysql" width="50px" src="/DATABASES/mysql.png"/>
 </a>
 <a href="#">
-  <img alt="guilyx | MongoDB" width="50px" src="/DATABASES/MongoDB.png"/>
+  <img alt="guilyx | MongoDB" width="50px" src="/DATABASES/mongoDB.png"/>
 </a>
 </p>
 
