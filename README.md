@@ -24,9 +24,8 @@ _____________|','   ///_/-------------/   |
 
 Hello, it's me...
 <br>
-My name is Poonpittinan Yupa - yup I has experience in coding multiple programming language, developing, planning, manage projects, designing features skill and strong understanding of multiple software applications design tools and languages. Able to develop both in back and front end development. Have the ability to T-shaped skills to learn and develop projects with your company to achieve goals.
+Hello, I’m Poonpittinan Yupa. I have experience in coding with multiple programming languages, along with expertise in software development, project planning, and feature design. I’m proficient in both back-end and front-end development, with a strong understanding of various software design tools and technologies. I’m always eager to learn and adapt to new technologies, enabling me to contribute effectively to projects and help achieve goals.
 
-🌱 Coding--Badminton--Travel--Mountain Climbing--Running--Hiking 🌱
 ## EDUCATION
 Chiang Mai University
 <br>
